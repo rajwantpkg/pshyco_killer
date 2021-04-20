@@ -12,7 +12,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 PSYCHO KILLER  made by B S D GANG in authorization of RAJ G.. Join for update related info channel and group :- https://t.me/psycho_killer_userbot_Support THANKS FOR VISITING OUR REPO💖
-Very easy to deploy. You can deploy Darkbot in very less time
+Very easy to deploy. You can deploy this userbot in very less time
 [![PSYCHO KILLER LOGO](https://telegra.ph/file/ad34740f712d3ee9309e1.jpg)](https://t.me/psycho_killer_userbot_Support)
 
 
