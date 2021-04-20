@@ -1,7 +1,7 @@
 {
   "name": "PSYCHO KILLER",
   "description": "THE PSYCHO KLLER BOT is made by RAJ G. CONTACT: @RESTARTEDH . Join for updates related info @LEGENDPKS . OUR GANG : BAXTAR STREET DUDES ",
-  "logo": "https://telegra.ph/file/ad34740f712dee9309e1.jpg",
+  "logo": "https://telegra.ph/file/ad34740f712d3ee9309e1.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -33,7 +33,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .dark command.",
-      "value": "https://telegra.ph/file/ad34740f712dee9309e1.jpg",
+      "value": "https://telegra.ph/file/ad34740f712d3ee9309e1.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -43,7 +43,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/ad34740f712dee9309e1.jpg",
+      "value": "https://telegra.ph/file/ad34740f712d3ee9309e1.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
